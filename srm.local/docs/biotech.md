@@ -6,3 +6,4 @@
  - Physics: Electromagnetic Theory, Quantum Mechanics, Waves and Optics
  - Engineering Graphics and Design
  - Electrical and Electronics Engineering
+ - Computer Science Engineering 
